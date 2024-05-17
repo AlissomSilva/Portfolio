@@ -1,6 +1,6 @@
-# React + Vite
+# React + Tailwind + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Construi de forma responsiva um portfolio que trabalhou com ReactJs e Tailwind como folha de estilização, tendo sua construção com Vite.
 
 Currently, two official plugins are available:
 
